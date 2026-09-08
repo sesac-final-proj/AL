@@ -1,0 +1,184 @@
+{
+  "rows": 5736,
+  "target": "등록가(KRW)",
+  "selectedModel": "LightGBM",
+  "split": {
+    "method": "시간순 80/20 홀드아웃",
+    "trainRows": 4588,
+    "testRows": 1148,
+    "trainUntil": "2026-08-07T19:42:47",
+    "testFrom": "2026-08-07T19:51:08"
+  },
+  "baseline": {
+    "name": "학습 중앙값",
+    "testR2": -0.094,
+    "testMAE": 87818
+  },
+  "models": [
+    {
+      "name": "LightGBM",
+      "trainR2": 0.3697,
+      "cvR2Mean": 0.1941,
+      "cvR2Std": 0.0534,
+      "testR2": 0.4087,
+      "testMAE": 56650,
+      "testMedianAE": 31224,
+      "overfitGap": -0.0389,
+      "overfitRisk": "보통",
+      "bestParams": {
+        "n_estimators": 280,
+        "learning_rate": 0.10200213239482024,
+        "num_leaves": 10,
+        "max_depth": 10,
+        "min_child_samples": 12,
+        "subsample": 0.8586300582857584,
+        "colsample_bytree": 0.8750578212176192,
+        "reg_alpha": 0.017545463213390428,
+        "reg_lambda": 0.2926555994640662
+      },
+      "featureImportance": [
+        {
+          "feature": "listed_month",
+          "importancePct": 12.1
+        },
+        {
+          "feature": "listed_quarter_2025Q3",
+          "importancePct": 5.12
+        },
+        {
+          "feature": "model_CALF_V3",
+          "importancePct": 4.92
+        },
+        {
+          "feature": "model_PENCILVAC",
+          "importancePct": 3.45
+        },
+        {
+          "feature": "model_MNFD-120G",
+          "importancePct": 2.78
+        },
+        {
+          "feature": "listed_quarter_2026Q2",
+          "importancePct": 2.78
+        },
+        {
+          "feature": "model_WAIST_BACK",
+          "importancePct": 2.58
+        },
+        {
+          "feature": "model_전기보온밥솥_3인용",
+          "importancePct": 2.54
+        },
+        {
+          "feature": "condition_중고",
+          "importancePct": 2.46
+        },
+        {
+          "feature": "listed_year",
+          "importancePct": 2.38
+        }
+      ]
+    },
+    {
+      "name": "RandomForest",
+      "trainR2": 0.3869,
+      "cvR2Mean": 0.2663,
+      "cvR2Std": 0.1007,
+      "testR2": 0.3827,
+      "testMAE": 59091,
+      "testMedianAE": 33559,
+      "overfitGap": 0.0043,
+      "overfitRisk": "낮음",
+      "bestParams": {
+        "n_estimators": 227,
+        "max_depth": 15,
+        "min_samples_leaf": 2,
+        "min_samples_split": 15,
+        "max_features": 0.8,
+        "max_samples": 0.9636022765297443
+      },
+      "featureImportance": [
+        {
+          "feature": "model_BOOSTER_PRO",
+          "importancePct": 22.67
+        },
+        {
+          "feature": "search_keyword_미닉스 음식물처리기",
+          "importancePct": 21.8
+        },
+        {
+          "feature": "model_V6",
+          "importancePct": 9.28
+        },
+        {
+          "feature": "model_SPOT_AND_SCRUB",
+          "importancePct": 5.85
+        },
+        {
+          "feature": "model_V7",
+          "importancePct": 5.22
+        },
+        {
+          "feature": "condition_새상품",
+          "importancePct": 3.92
+        },
+        {
+          "feature": "model_WASH_G1",
+          "importancePct": 3.29
+        },
+        {
+          "feature": "listed_month",
+          "importancePct": 2.75
+        },
+        {
+          "feature": "model_PENCILVAC",
+          "importancePct": 2.64
+        },
+        {
+          "feature": "model_NECK_PULLER",
+          "importancePct": 2.59
+        }
+      ]
+    }
+  ],
+  "selectedCategoryMetrics": [
+    {
+      "item": "다이슨 청소기",
+      "count": 425,
+      "r2": 0.3611,
+      "mae": 75843
+    },
+    {
+      "item": "메디큐브 부스터 프로",
+      "count": 229,
+      "r2": 0.2082,
+      "mae": 57333
+    },
+    {
+      "item": "미닉스 음식물처리기",
+      "count": 55,
+      "r2": -0.1064,
+      "mae": 44401
+    },
+    {
+      "item": "쿠쿠 밥솥",
+      "count": 346,
+      "r2": 0.0481,
+      "mae": 42869
+    },
+    {
+      "item": "풀리오 마사지기",
+      "count": 87,
+      "r2": 0.4942,
+      "mae": 24930
+    }
+  ],
+  "leakageGuard": "가격 기반 comparison_cluster 제외",
+  "clusterSummary": {
+    "count": 251,
+    "cuckoo10Rows": 538,
+    "productYearRows": 26,
+    "unknownRows": 0,
+    "duplicateIds": 0
+  }
+}

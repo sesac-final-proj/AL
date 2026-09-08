@@ -1,32 +1,32 @@
 {
-  "rowCount": 5736,
+  "rowCount": 5856,
   "fileCount": 12,
   "overallStats": {
-    "count": 5736,
-    "mean": 131987.08,
-    "trimmedMean": 110378.23,
+    "count": 5856,
+    "mean": 131246.08,
+    "trimmedMean": 109476.5,
     "median": 90000.0,
-    "q1": 46000.0,
+    "q1": 45000.0,
     "q3": 180000.0,
-    "standardDeviation": 139965.89,
-    "coefficientOfVariation": 106.05,
+    "standardDeviation": 140050.9,
+    "coefficientOfVariation": 106.71,
     "meanConfidenceInterval95": [
-      128364.17,
-      135609.99
+      127658.32,
+      134833.84
     ],
-    "meanMedianGapPct": 46.65
+    "meanMedianGapPct": 45.83
   },
   "overallComparison": {
     "elecmartCount": 2363,
-    "joonggonaraCount": 3373,
-    "meanDifference": -764.01,
+    "joonggonaraCount": 3493,
+    "meanDifference": 489.08,
     "confidenceInterval95": [
-      -8236.19,
-      6708.16
+      -6941.73,
+      7919.9
     ],
-    "tStatistic": -0.2005,
-    "pValue": 0.8411,
-    "cohensD": -0.0055
+    "tStatistic": 0.129,
+    "pValue": 0.8973,
+    "cohensD": 0.0035
   },
   "platforms": [
     {
@@ -51,22 +51,22 @@
     },
     {
       "name": "joonggonara",
-      "rows": 3373,
-      "meanPrice": 132301.82,
-      "trimmedMeanPrice": 110178.16,
+      "rows": 3493,
+      "meanPrice": 131048.73,
+      "trimmedMeanPrice": 108668.22,
       "medianPrice": 90000.0,
-      "standardDeviation": 134938.5,
-      "coefficientOfVariation": 101.99,
+      "standardDeviation": 135262.49,
+      "coefficientOfVariation": 103.22,
       "meanConfidenceInterval95": [
-        127746.37,
-        136857.28
+        126561.51,
+        135535.94
       ],
-      "meanMedianGapPct": 47.0,
-      "duplicateRate": 0.0,
+      "meanMedianGapPct": 45.61,
+      "duplicateRate": 3.44,
       "statuses": {
-        "판매중": 1018,
-        "판매완료": 2287,
-        "예약중": 68
+        "판매중": 1055,
+        "판매완료": 2366,
+        "예약중": 72
       }
     }
   ],
@@ -125,22 +125,22 @@
         "meanMedianGapPct": 0.0
       },
       "joonggonara": {
-        "count": 4,
-        "mean": 113750.0,
-        "trimmedMean": 113750.0,
-        "median": 120000.0,
-        "q1": 76250.0,
-        "q3": 157500.0,
-        "standardDeviation": 64468.98,
-        "coefficientOfVariation": 56.68,
+        "count": 5,
+        "mean": 98000.0,
+        "trimmedMean": 98000.0,
+        "median": 90000.0,
+        "q1": 35000.0,
+        "q3": 150000.0,
+        "standardDeviation": 66011.36,
+        "coefficientOfVariation": 67.36,
         "meanConfidenceInterval95": [
-          11165.46,
-          216334.54
+          16036.07,
+          179963.93
         ],
-        "meanMedianGapPct": -5.21
+        "meanMedianGapPct": 8.89
       },
-      "referencePrice": 150000.0,
-      "elecmartVsJoonggonaraPct": 304.25
+      "referencePrice": 120000.0,
+      "elecmartVsJoonggonaraPct": 439.0
     },
     {
       "name": "다이슨 청소기 / CYCLONE",
@@ -784,22 +784,22 @@
         "meanMedianGapPct": 8.33
       },
       "joonggonara": {
-        "count": 13,
-        "mean": 228461.54,
-        "trimmedMean": 234545.45,
-        "median": 230000.0,
-        "q1": 170000.0,
-        "q3": 350000.0,
-        "standardDeviation": 129749.51,
-        "coefficientOfVariation": 56.79,
+        "count": 14,
+        "mean": 235714.29,
+        "trimmedMean": 242500.0,
+        "median": 265000.0,
+        "q1": 177500.0,
+        "q3": 345000.0,
+        "standardDeviation": 127578.89,
+        "coefficientOfVariation": 54.12,
         "meanConfidenceInterval95": [
-          150054.69,
-          306868.38
+          162052.43,
+          309376.14
         ],
-        "meanMedianGapPct": -0.67
+        "meanMedianGapPct": -11.05
       },
-      "referencePrice": 230000.0,
-      "elecmartVsJoonggonaraPct": 4.35
+      "referencePrice": 245000.0,
+      "elecmartVsJoonggonaraPct": -9.43
     },
     {
       "name": "다이슨 청소기 / GEN5DETECT",
@@ -960,22 +960,22 @@
         "meanMedianGapPct": 3.02
       },
       "joonggonara": {
-        "count": 17,
-        "mean": 935588.24,
-        "trimmedMean": 940333.33,
-        "median": 880000.0,
-        "q1": 795000.0,
-        "q3": 1150000.0,
-        "standardDeviation": 237906.77,
-        "coefficientOfVariation": 25.43,
+        "count": 18,
+        "mean": 933055.56,
+        "trimmedMean": 937187.5,
+        "median": 885000.0,
+        "q1": 796250.0,
+        "q3": 1110000.0,
+        "standardDeviation": 231053.46,
+        "coefficientOfVariation": 24.76,
         "meanConfidenceInterval95": [
-          813267.86,
-          1057908.61
+          818155.37,
+          1047955.74
         ],
-        "meanMedianGapPct": 6.32
+        "meanMedianGapPct": 5.43
       },
-      "referencePrice": 820000.0,
-      "elecmartVsJoonggonaraPct": -20.45
+      "referencePrice": 835000.0,
+      "elecmartVsJoonggonaraPct": -20.9
     },
     {
       "name": "다이슨 청소기 / SV09",
@@ -997,19 +997,19 @@
         "meanMedianGapPct": 18.75
       },
       "joonggonara": {
-        "count": 4,
-        "mean": 35000.0,
-        "trimmedMean": 35000.0,
+        "count": 5,
+        "mean": 32000.0,
+        "trimmedMean": 32000.0,
         "median": 20000.0,
         "q1": 20000.0,
-        "q3": 35000.0,
-        "standardDeviation": 30000.0,
-        "coefficientOfVariation": 85.71,
+        "q3": 20000.0,
+        "standardDeviation": 26832.82,
+        "coefficientOfVariation": 83.85,
         "meanConfidenceInterval95": [
-          -12736.69,
-          82736.69
+          -1317.34,
+          65317.34
         ],
-        "meanMedianGapPct": 75.0
+        "meanMedianGapPct": 60.0
       },
       "referencePrice": 20000.0,
       "elecmartVsJoonggonaraPct": 300.0
@@ -1068,22 +1068,22 @@
         "meanMedianGapPct": 0.0
       },
       "joonggonara": {
-        "count": 4,
-        "mean": 61750.0,
-        "trimmedMean": 61750.0,
-        "median": 57000.0,
-        "q1": 36250.0,
-        "q3": 82500.0,
-        "standardDeviation": 35131.89,
-        "coefficientOfVariation": 56.89,
+        "count": 5,
+        "mean": 55000.0,
+        "trimmedMean": 55000.0,
+        "median": 39000.0,
+        "q1": 28000.0,
+        "q3": 75000.0,
+        "standardDeviation": 33963.22,
+        "coefficientOfVariation": 61.75,
         "meanConfidenceInterval95": [
-          5847.32,
-          117652.68
+          12829.1,
+          97170.9
         ],
-        "meanMedianGapPct": 8.33
+        "meanMedianGapPct": 41.03
       },
-      "referencePrice": 75000.0,
-      "elecmartVsJoonggonaraPct": 119.3
+      "referencePrice": 57000.0,
+      "elecmartVsJoonggonaraPct": 220.51
     },
     {
       "name": "다이슨 청소기 / SV12",
@@ -1167,17 +1167,17 @@
         "meanMedianGapPct": 0.0
       },
       "joonggonara": {
-        "count": 2,
+        "count": 4,
         "mean": 37500.0,
         "trimmedMean": 37500.0,
         "median": 37500.0,
-        "q1": 33750.0,
-        "q3": 41250.0,
-        "standardDeviation": 10606.6,
-        "coefficientOfVariation": 28.28,
+        "q1": 30000.0,
+        "q3": 45000.0,
+        "standardDeviation": 8660.25,
+        "coefficientOfVariation": 23.09,
         "meanConfidenceInterval95": [
-          -57796.54,
-          132796.54
+          23719.6,
+          51280.4
         ],
         "meanMedianGapPct": 0.0
       },
@@ -1204,19 +1204,19 @@
         "meanMedianGapPct": 31.62
       },
       "joonggonara": {
-        "count": 9,
-        "mean": 120000.0,
-        "trimmedMean": 120000.0,
+        "count": 10,
+        "mean": 113500.0,
+        "trimmedMean": 115625.0,
         "median": 100000.0,
-        "q1": 85000.0,
-        "q3": 170000.0,
-        "standardDeviation": 66379.59,
-        "coefficientOfVariation": 55.32,
+        "q1": 62500.0,
+        "q3": 167500.0,
+        "standardDeviation": 65872.35,
+        "coefficientOfVariation": 58.04,
         "meanConfidenceInterval95": [
-          68976.13,
-          171023.87
+          66377.76,
+          160622.24
         ],
-        "meanMedianGapPct": 20.0
+        "meanMedianGapPct": 13.5
       },
       "referencePrice": 130000.0,
       "elecmartVsJoonggonaraPct": 30.0
@@ -1241,17 +1241,17 @@
         "meanMedianGapPct": 46.15
       },
       "joonggonara": {
-        "count": 7,
+        "count": 14,
         "mean": 20714.29,
-        "trimmedMean": 20714.29,
+        "trimmedMean": 20000.0,
         "median": 20000.0,
-        "q1": 12500.0,
+        "q1": 11250.0,
         "q3": 25000.0,
-        "standardDeviation": 10578.5,
-        "coefficientOfVariation": 51.07,
+        "standardDeviation": 10163.5,
+        "coefficientOfVariation": 49.07,
         "meanConfidenceInterval95": [
-          10930.8,
-          30497.77
+          14846.06,
+          26582.52
         ],
         "meanMedianGapPct": 3.57
       },
@@ -1343,21 +1343,21 @@
         "meanMedianGapPct": 6.19
       },
       "joonggonara": {
-        "count": 169,
-        "mean": 86999.39,
-        "trimmedMean": 78094.16,
+        "count": 185,
+        "mean": 87648.09,
+        "trimmedMean": 77858.39,
         "median": 55000.0,
-        "q1": 25000.0,
+        "q1": 20000.0,
         "q3": 145000.0,
-        "standardDeviation": 77528.98,
-        "coefficientOfVariation": 89.11,
+        "standardDeviation": 80189.42,
+        "coefficientOfVariation": 91.49,
         "meanConfidenceInterval95": [
-          75225.81,
-          98772.97
+          76016.34,
+          99279.85
         ],
-        "meanMedianGapPct": 58.18
+        "meanMedianGapPct": 59.36
       },
-      "referencePrice": 72000.0,
+      "referencePrice": 70000.0,
       "elecmartVsJoonggonaraPct": 100.0
     },
     {
@@ -1414,19 +1414,19 @@
         "meanMedianGapPct": -5.44
       },
       "joonggonara": {
-        "count": 67,
-        "mean": 151432.84,
-        "trimmedMean": 142072.73,
+        "count": 69,
+        "mean": 153043.48,
+        "trimmedMean": 142596.49,
         "median": 140000.0,
         "q1": 20000.0,
         "q3": 250000.0,
-        "standardDeviation": 128406.58,
-        "coefficientOfVariation": 84.79,
+        "standardDeviation": 131099.36,
+        "coefficientOfVariation": 85.66,
         "meanConfidenceInterval95": [
-          120112.01,
-          182753.66
+          121549.97,
+          184536.98
         ],
-        "meanMedianGapPct": 8.17
+        "meanMedianGapPct": 9.32
       },
       "referencePrice": 160000.0,
       "elecmartVsJoonggonaraPct": 14.29
@@ -1559,22 +1559,22 @@
         "meanMedianGapPct": 0.0
       },
       "joonggonara": {
-        "count": 2,
-        "mean": 825000.0,
-        "trimmedMean": 825000.0,
-        "median": 825000.0,
-        "q1": 787500.0,
-        "q3": 862500.0,
-        "standardDeviation": 106066.02,
-        "coefficientOfVariation": 12.86,
+        "count": 3,
+        "mean": 850000.0,
+        "trimmedMean": 850000.0,
+        "median": 900000.0,
+        "q1": 825000.0,
+        "q3": 900000.0,
+        "standardDeviation": 86602.54,
+        "coefficientOfVariation": 10.19,
         "meanConfidenceInterval95": [
-          -127965.36,
-          1777965.36
+          634867.36,
+          1065132.64
         ],
-        "meanMedianGapPct": 0.0
+        "meanMedianGapPct": -5.56
       },
       "referencePrice": 900000.0,
-      "elecmartVsJoonggonaraPct": 9.09
+      "elecmartVsJoonggonaraPct": 0.0
     },
     {
       "name": "다이슨 청소기 / V16",
@@ -1664,19 +1664,19 @@
         "meanMedianGapPct": 27.09
       },
       "joonggonara": {
-        "count": 133,
-        "mean": 34870.01,
-        "trimmedMean": 26201.97,
+        "count": 144,
+        "mean": 34546.6,
+        "trimmedMean": 26427.68,
         "median": 25000.0,
         "q1": 15000.0,
         "q3": 35000.0,
-        "standardDeviation": 43152.56,
-        "coefficientOfVariation": 123.75,
+        "standardDeviation": 41832.63,
+        "coefficientOfVariation": 121.09,
         "meanConfidenceInterval95": [
-          27468.35,
-          42271.66
+          27655.75,
+          41437.46
         ],
-        "meanMedianGapPct": 39.48
+        "meanMedianGapPct": 38.19
       },
       "referencePrice": 25000.0,
       "elecmartVsJoonggonaraPct": -8.0
@@ -1701,19 +1701,19 @@
         "meanMedianGapPct": 25.74
       },
       "joonggonara": {
-        "count": 112,
-        "mean": 42894.63,
-        "trimmedMean": 30624.44,
+        "count": 120,
+        "mean": 43201.66,
+        "trimmedMean": 31179.17,
         "median": 30000.0,
         "q1": 10000.0,
         "q3": 50000.0,
-        "standardDeviation": 86157.87,
-        "coefficientOfVariation": 200.86,
+        "standardDeviation": 83871.1,
+        "coefficientOfVariation": 194.14,
         "meanConfidenceInterval95": [
-          26762.4,
-          59026.87
+          28041.32,
+          58361.99
         ],
-        "meanMedianGapPct": 42.98
+        "meanMedianGapPct": 44.01
       },
       "referencePrice": 30000.0,
       "elecmartVsJoonggonaraPct": 16.67
@@ -1803,22 +1803,22 @@
         "meanMedianGapPct": 41.41
       },
       "joonggonara": {
-        "count": 170,
-        "mean": 97579.66,
-        "trimmedMean": 82383.17,
-        "median": 59500.0,
-        "q1": 36250.0,
-        "q3": 133750.0,
-        "standardDeviation": 89920.13,
-        "coefficientOfVariation": 92.15,
+        "count": 185,
+        "mean": 96111.04,
+        "trimmedMean": 81544.37,
+        "median": 60000.0,
+        "q1": 36000.0,
+        "q3": 130000.0,
+        "standardDeviation": 87831.03,
+        "coefficientOfVariation": 91.38,
         "meanConfidenceInterval95": [
-          83965.16,
-          111194.16
+          83370.85,
+          108851.24
         ],
-        "meanMedianGapPct": 64.0
+        "meanMedianGapPct": 60.19
       },
-      "referencePrice": 66000.0,
-      "elecmartVsJoonggonaraPct": 17.65
+      "referencePrice": 65000.0,
+      "elecmartVsJoonggonaraPct": 16.67
     },
     {
       "name": "다이슨 청소기 / WASH_G1",
@@ -1877,19 +1877,19 @@
         "meanMedianGapPct": 253.83
       },
       "joonggonara": {
-        "count": 146,
-        "mean": 132951.75,
-        "trimmedMean": 96369.58,
+        "count": 158,
+        "mean": 132641.15,
+        "trimmedMean": 97746.96,
         "median": 50000.0,
         "q1": 20000.0,
-        "q3": 166250.0,
-        "standardDeviation": 177504.98,
-        "coefficientOfVariation": 133.51,
+        "q3": 192500.0,
+        "standardDeviation": 175891.66,
+        "coefficientOfVariation": 132.61,
         "meanConfidenceInterval95": [
-          103916.74,
-          161986.77
+          105001.95,
+          160280.34
         ],
-        "meanMedianGapPct": 165.9
+        "meanMedianGapPct": 165.28
       },
       "referencePrice": 40000.0,
       "elecmartVsJoonggonaraPct": -40.0
@@ -1914,19 +1914,19 @@
         "meanMedianGapPct": 7.11
       },
       "joonggonara": {
-        "count": 465,
-        "mean": 188937.82,
-        "trimmedMean": 182104.29,
+        "count": 472,
+        "mean": 188964.17,
+        "trimmedMean": 182420.37,
         "median": 180000.0,
         "q1": 150000.0,
         "q3": 215000.0,
-        "standardDeviation": 81196.09,
-        "coefficientOfVariation": 42.98,
+        "standardDeviation": 81393.63,
+        "coefficientOfVariation": 43.07,
         "meanConfidenceInterval95": [
-          181538.51,
-          196337.13
+          181602.35,
+          196325.98
         ],
-        "meanMedianGapPct": 4.97
+        "meanMedianGapPct": 4.98
       },
       "referencePrice": 180000.0,
       "elecmartVsJoonggonaraPct": 0.0
@@ -1951,19 +1951,19 @@
         "meanMedianGapPct": 11.76
       },
       "joonggonara": {
-        "count": 100,
-        "mean": 76749.0,
-        "trimmedMean": 76160.0,
+        "count": 102,
+        "mean": 76577.45,
+        "trimmedMean": 76009.76,
         "median": 79000.0,
-        "q1": 63750.0,
+        "q1": 61250.0,
         "q3": 90000.0,
-        "standardDeviation": 22270.91,
-        "coefficientOfVariation": 29.02,
+        "standardDeviation": 22298.92,
+        "coefficientOfVariation": 29.12,
         "meanConfidenceInterval95": [
-          72329.97,
-          81168.03
+          72197.53,
+          80957.38
         ],
-        "meanMedianGapPct": -2.85
+        "meanMedianGapPct": -3.07
       },
       "referencePrice": 75000.0,
       "elecmartVsJoonggonaraPct": -8.23
@@ -3219,22 +3219,22 @@
         "meanMedianGapPct": 0.0
       },
       "joonggonara": {
-        "count": 4,
-        "mean": 37500.0,
-        "trimmedMean": 37500.0,
-        "median": 30000.0,
+        "count": 5,
+        "mean": 44000.0,
+        "trimmedMean": 44000.0,
+        "median": 40000.0,
         "q1": 20000.0,
-        "q3": 47500.0,
-        "standardDeviation": 23629.08,
-        "coefficientOfVariation": 63.01,
+        "q3": 70000.0,
+        "standardDeviation": 25099.8,
+        "coefficientOfVariation": 57.05,
         "meanConfidenceInterval95": [
-          -99.14,
-          75099.14
+          12834.48,
+          75165.52
         ],
-        "meanMedianGapPct": 25.0
+        "meanMedianGapPct": 10.0
       },
-      "referencePrice": 30000.0,
-      "elecmartVsJoonggonaraPct": 26.38
+      "referencePrice": 40000.0,
+      "elecmartVsJoonggonaraPct": -5.21
     },
     {
       "name": "쿠쿠 밥솥 / CR-06610",
@@ -3423,21 +3423,21 @@
         "meanMedianGapPct": null
       },
       "joonggonara": {
-        "count": 2,
-        "mean": 42500.0,
-        "trimmedMean": 42500.0,
-        "median": 42500.0,
-        "q1": 36250.0,
-        "q3": 48750.0,
-        "standardDeviation": 17677.67,
-        "coefficientOfVariation": 41.59,
+        "count": 3,
+        "mean": 46666.67,
+        "trimmedMean": 46666.67,
+        "median": 55000.0,
+        "q1": 42500.0,
+        "q3": 55000.0,
+        "standardDeviation": 14433.76,
+        "coefficientOfVariation": 30.93,
         "meanConfidenceInterval95": [
-          -116327.56,
-          201327.56
+          10811.23,
+          82522.11
         ],
-        "meanMedianGapPct": 0.0
+        "meanMedianGapPct": -15.15
       },
-      "referencePrice": 42500.0,
+      "referencePrice": 55000.0,
       "elecmartVsJoonggonaraPct": null
     },
     {
@@ -3835,15 +3835,18 @@
         "meanMedianGapPct": null
       },
       "joonggonara": {
-        "count": 1,
+        "count": 2,
         "mean": 79000.0,
         "trimmedMean": 79000.0,
         "median": 79000.0,
         "q1": 79000.0,
         "q3": 79000.0,
-        "standardDeviation": null,
-        "coefficientOfVariation": null,
-        "meanConfidenceInterval95": null,
+        "standardDeviation": 0.0,
+        "coefficientOfVariation": 0.0,
+        "meanConfidenceInterval95": [
+          79000.0,
+          79000.0
+        ],
         "meanMedianGapPct": 0.0
       },
       "referencePrice": 79000.0,
@@ -4163,15 +4166,18 @@
         "meanMedianGapPct": null
       },
       "joonggonara": {
-        "count": 1,
+        "count": 2,
         "mean": 190000.0,
         "trimmedMean": 190000.0,
         "median": 190000.0,
         "q1": 190000.0,
         "q3": 190000.0,
-        "standardDeviation": null,
-        "coefficientOfVariation": null,
-        "meanConfidenceInterval95": null,
+        "standardDeviation": 0.0,
+        "coefficientOfVariation": 0.0,
+        "meanConfidenceInterval95": [
+          190000.0,
+          190000.0
+        ],
         "meanMedianGapPct": 0.0
       },
       "referencePrice": 190000.0,
@@ -4194,15 +4200,18 @@
         "meanMedianGapPct": null
       },
       "joonggonara": {
-        "count": 1,
+        "count": 2,
         "mean": 26800.0,
         "trimmedMean": 26800.0,
         "median": 26800.0,
         "q1": 26800.0,
         "q3": 26800.0,
-        "standardDeviation": null,
-        "coefficientOfVariation": null,
-        "meanConfidenceInterval95": null,
+        "standardDeviation": 0.0,
+        "coefficientOfVariation": 0.0,
+        "meanConfidenceInterval95": [
+          26800.0,
+          26800.0
+        ],
         "meanMedianGapPct": 0.0
       },
       "referencePrice": 26800.0,
@@ -4541,15 +4550,18 @@
         "meanMedianGapPct": null
       },
       "joonggonara": {
-        "count": 1,
+        "count": 2,
         "mean": 40000.0,
         "trimmedMean": 40000.0,
         "median": 40000.0,
         "q1": 40000.0,
         "q3": 40000.0,
-        "standardDeviation": null,
-        "coefficientOfVariation": null,
-        "meanConfidenceInterval95": null,
+        "standardDeviation": 0.0,
+        "coefficientOfVariation": 0.0,
+        "meanConfidenceInterval95": [
+          40000.0,
+          40000.0
+        ],
         "meanMedianGapPct": 0.0
       },
       "referencePrice": 40000.0,
@@ -4897,21 +4909,21 @@
         "meanMedianGapPct": null
       },
       "joonggonara": {
-        "count": 2,
-        "mean": 187000.0,
-        "trimmedMean": 187000.0,
-        "median": 187000.0,
-        "q1": 180500.0,
-        "q3": 193500.0,
-        "standardDeviation": 18384.78,
-        "coefficientOfVariation": 9.83,
+        "count": 3,
+        "mean": 191333.33,
+        "trimmedMean": 191333.33,
+        "median": 200000.0,
+        "q1": 187000.0,
+        "q3": 200000.0,
+        "standardDeviation": 15011.11,
+        "coefficientOfVariation": 7.85,
         "meanConfidenceInterval95": [
-          21819.34,
-          352180.66
+          154043.68,
+          228622.99
         ],
-        "meanMedianGapPct": 0.0
+        "meanMedianGapPct": -4.33
       },
-      "referencePrice": 187000.0,
+      "referencePrice": 200000.0,
       "elecmartVsJoonggonaraPct": null
     },
     {
@@ -7290,22 +7302,22 @@
         "meanMedianGapPct": 0.0
       },
       "joonggonara": {
-        "count": 2,
-        "mean": 18500.0,
-        "trimmedMean": 18500.0,
-        "median": 18500.0,
-        "q1": 12750.0,
-        "q3": 24250.0,
-        "standardDeviation": 16263.46,
-        "coefficientOfVariation": 87.91,
+        "count": 3,
+        "mean": 14666.67,
+        "trimmedMean": 14666.67,
+        "median": 7000.0,
+        "q1": 7000.0,
+        "q3": 18500.0,
+        "standardDeviation": 13279.06,
+        "coefficientOfVariation": 90.54,
         "meanConfidenceInterval95": [
-          -127621.35,
-          164621.35
+          -18320.34,
+          47653.67
         ],
-        "meanMedianGapPct": 0.0
+        "meanMedianGapPct": 109.52
       },
       "referencePrice": 7000.0,
-      "elecmartVsJoonggonaraPct": -62.16
+      "elecmartVsJoonggonaraPct": 0.0
     },
     {
       "name": "쿠쿠 밥솥 / CRP-HWF1060FB",
@@ -7324,21 +7336,21 @@
         "meanMedianGapPct": null
       },
       "joonggonara": {
-        "count": 5,
-        "mean": 153000.0,
-        "trimmedMean": 153000.0,
-        "median": 155000.0,
-        "q1": 150000.0,
-        "q3": 160000.0,
-        "standardDeviation": 14832.4,
-        "coefficientOfVariation": 9.69,
+        "count": 6,
+        "mean": 149166.67,
+        "trimmedMean": 149166.67,
+        "median": 152500.0,
+        "q1": 135000.0,
+        "q3": 158750.0,
+        "standardDeviation": 16253.2,
+        "coefficientOfVariation": 10.9,
         "meanConfidenceInterval95": [
-          134583.15,
-          171416.85
+          132109.97,
+          166223.36
         ],
-        "meanMedianGapPct": -1.29
+        "meanMedianGapPct": -2.19
       },
-      "referencePrice": 155000.0,
+      "referencePrice": 152500.0,
       "elecmartVsJoonggonaraPct": null
     },
     {
@@ -9903,17 +9915,17 @@
         "meanMedianGapPct": -2.62
       },
       "joonggonara": {
-        "count": 2,
+        "count": 4,
         "mean": 95000.0,
         "trimmedMean": 95000.0,
         "median": 95000.0,
-        "q1": 87500.0,
-        "q3": 102500.0,
-        "standardDeviation": 21213.2,
-        "coefficientOfVariation": 22.33,
+        "q1": 80000.0,
+        "q3": 110000.0,
+        "standardDeviation": 17320.51,
+        "coefficientOfVariation": 18.23,
         "meanConfidenceInterval95": [
-          -95593.07,
-          285593.07
+          67439.21,
+          122560.79
         ],
         "meanMedianGapPct": 0.0
       },
@@ -12033,21 +12045,21 @@
         "meanMedianGapPct": 30.85
       },
       "joonggonara": {
-        "count": 15,
-        "mean": 64400.0,
-        "trimmedMean": 61230.77,
+        "count": 16,
+        "mean": 65375.0,
+        "trimmedMean": 62571.43,
         "median": 57000.0,
         "q1": 50000.0,
-        "q3": 75000.0,
-        "standardDeviation": 33659.64,
-        "coefficientOfVariation": 52.27,
+        "q3": 80000.0,
+        "standardDeviation": 32751.34,
+        "coefficientOfVariation": 50.1,
         "meanConfidenceInterval95": [
-          45759.91,
-          83040.09
+          47923.05,
+          82826.95
         ],
-        "meanMedianGapPct": 12.98
+        "meanMedianGapPct": 14.69
       },
-      "referencePrice": 59000.0,
+      "referencePrice": 64000.0,
       "elecmartVsJoonggonaraPct": 21.93
     },
     {
@@ -12070,22 +12082,22 @@
         "meanMedianGapPct": 39.44
       },
       "joonggonara": {
-        "count": 82,
-        "mean": 94060.98,
-        "trimmedMean": 80590.91,
-        "median": 69500.0,
+        "count": 83,
+        "mean": 93493.98,
+        "trimmedMean": 80089.55,
+        "median": 69000.0,
         "q1": 35000.0,
-        "q3": 117500.0,
-        "standardDeviation": 79546.61,
-        "coefficientOfVariation": 84.57,
+        "q3": 115000.0,
+        "standardDeviation": 79228.66,
+        "coefficientOfVariation": 84.74,
         "meanConfidenceInterval95": [
-          76582.67,
-          111539.28
+          76193.92,
+          110794.03
         ],
-        "meanMedianGapPct": 35.34
+        "meanMedianGapPct": 35.5
       },
       "referencePrice": 70000.0,
-      "elecmartVsJoonggonaraPct": 0.72
+      "elecmartVsJoonggonaraPct": 1.45
     },
     {
       "name": "쿠쿠 밥솥 / IH압력밥솥_3인용",
@@ -12144,21 +12156,21 @@
         "meanMedianGapPct": 32.3
       },
       "joonggonara": {
-        "count": 59,
-        "mean": 83728.81,
-        "trimmedMean": 73775.51,
+        "count": 60,
+        "mean": 84150.0,
+        "trimmedMean": 72854.17,
         "median": 60000.0,
-        "q1": 37500.0,
-        "q3": 102500.0,
-        "standardDeviation": 64583.23,
-        "coefficientOfVariation": 77.13,
+        "q1": 38750.0,
+        "q3": 106000.0,
+        "standardDeviation": 64116.64,
+        "coefficientOfVariation": 76.19,
         "meanConfidenceInterval95": [
-          66898.33,
-          100559.3
+          67586.92,
+          100713.08
         ],
-        "meanMedianGapPct": 39.55
+        "meanMedianGapPct": 40.25
       },
-      "referencePrice": 68000.0,
+      "referencePrice": 69000.0,
       "elecmartVsJoonggonaraPct": 16.67
     },
     {
@@ -13011,21 +13023,21 @@
         "meanMedianGapPct": null
       },
       "joonggonara": {
-        "count": 3,
-        "mean": 75000.0,
-        "trimmedMean": 75000.0,
-        "median": 65000.0,
-        "q1": 52500.0,
-        "q3": 92500.0,
-        "standardDeviation": 40926.76,
-        "coefficientOfVariation": 54.57,
+        "count": 4,
+        "mean": 86250.0,
+        "trimmedMean": 86250.0,
+        "median": 92500.0,
+        "q1": 58750.0,
+        "q3": 120000.0,
+        "standardDeviation": 40285.44,
+        "coefficientOfVariation": 46.71,
         "meanConfidenceInterval95": [
-          -26667.72,
-          176667.72
+          22146.88,
+          150353.12
         ],
-        "meanMedianGapPct": 15.38
+        "meanMedianGapPct": -6.76
       },
-      "referencePrice": 65000.0,
+      "referencePrice": 92500.0,
       "elecmartVsJoonggonaraPct": null
     },
     {
@@ -13224,22 +13236,22 @@
         "meanMedianGapPct": 28.36
       },
       "joonggonara": {
-        "count": 29,
-        "mean": 52062.07,
-        "trimmedMean": 47076.0,
-        "median": 43000.0,
+        "count": 30,
+        "mean": 50660.0,
+        "trimmedMean": 44870.83,
+        "median": 39000.0,
         "q1": 20000.0,
         "q3": 70000.0,
-        "standardDeviation": 39980.67,
-        "coefficientOfVariation": 76.79,
+        "standardDeviation": 40028.85,
+        "coefficientOfVariation": 79.01,
         "meanConfidenceInterval95": [
-          36854.24,
-          67269.9
+          35712.98,
+          65607.02
         ],
-        "meanMedianGapPct": 21.07
+        "meanMedianGapPct": 29.9
       },
-      "referencePrice": 50000.0,
-      "elecmartVsJoonggonaraPct": 16.28
+      "referencePrice": 49500.0,
+      "elecmartVsJoonggonaraPct": 28.21
     },
     {
       "name": "쿠쿠 밥솥 / 전기보온밥솥_10인용",
@@ -13261,22 +13273,22 @@
         "meanMedianGapPct": 41.56
       },
       "joonggonara": {
-        "count": 22,
-        "mean": 59695.45,
-        "trimmedMean": 51850.0,
-        "median": 32150.0,
-        "q1": 28000.0,
-        "q3": 77500.0,
-        "standardDeviation": 52848.14,
-        "coefficientOfVariation": 88.53,
+        "count": 23,
+        "mean": 57534.78,
+        "trimmedMean": 49910.53,
+        "median": 30000.0,
+        "q1": 25000.0,
+        "q3": 75000.0,
+        "standardDeviation": 52662.61,
+        "coefficientOfVariation": 91.53,
         "meanConfidenceInterval95": [
-          36263.9,
-          83127.01
+          34761.76,
+          80307.8
         ],
-        "meanMedianGapPct": 85.68
+        "meanMedianGapPct": 91.78
       },
       "referencePrice": 50000.0,
-      "elecmartVsJoonggonaraPct": 179.94
+      "elecmartVsJoonggonaraPct": 200.0
     },
     {
       "name": "쿠쿠 밥솥 / 전기보온밥솥_30인용",
@@ -13326,22 +13338,22 @@
         "meanMedianGapPct": 0.0
       },
       "joonggonara": {
-        "count": 5,
-        "mean": 79000.0,
-        "trimmedMean": 79000.0,
-        "median": 95000.0,
-        "q1": 50000.0,
+        "count": 6,
+        "mean": 82500.0,
+        "trimmedMean": 82500.0,
+        "median": 97500.0,
+        "q1": 61250.0,
         "q3": 100000.0,
-        "standardDeviation": 26551.84,
-        "coefficientOfVariation": 33.61,
+        "standardDeviation": 25248.76,
+        "coefficientOfVariation": 30.6,
         "meanConfidenceInterval95": [
-          46031.54,
-          111968.46
+          56003.05,
+          108996.95
         ],
-        "meanMedianGapPct": -16.84
+        "meanMedianGapPct": -15.38
       },
-      "referencePrice": 80000.0,
-      "elecmartVsJoonggonaraPct": -31.58
+      "referencePrice": 95000.0,
+      "elecmartVsJoonggonaraPct": -33.33
     },
     {
       "name": "쿠쿠 밥솥 / 전기보온밥솥_3인용",
@@ -13400,19 +13412,19 @@
         "meanMedianGapPct": 52.17
       },
       "joonggonara": {
-        "count": 37,
-        "mean": 62918.92,
-        "trimmedMean": 50741.94,
+        "count": 39,
+        "mean": 62128.21,
+        "trimmedMean": 50545.45,
         "median": 49000.0,
         "q1": 25000.0,
         "q3": 75000.0,
-        "standardDeviation": 62845.66,
-        "coefficientOfVariation": 99.88,
+        "standardDeviation": 61590.4,
+        "coefficientOfVariation": 99.13,
         "meanConfidenceInterval95": [
-          41965.13,
-          83872.7
+          42162.91,
+          82093.5
         ],
-        "meanMedianGapPct": 28.41
+        "meanMedianGapPct": 26.79
       },
       "referencePrice": 50000.0,
       "elecmartVsJoonggonaraPct": 20.41
@@ -13437,22 +13449,22 @@
         "meanMedianGapPct": 14.13
       },
       "joonggonara": {
-        "count": 35,
-        "mean": 63785.71,
-        "trimmedMean": 55775.86,
-        "median": 41000.0,
-        "q1": 26500.0,
-        "q3": 87500.0,
-        "standardDeviation": 58072.13,
-        "coefficientOfVariation": 91.04,
+        "count": 36,
+        "mean": 62430.56,
+        "trimmedMean": 54416.67,
+        "median": 40500.0,
+        "q1": 23750.0,
+        "q3": 86250.0,
+        "standardDeviation": 57811.16,
+        "coefficientOfVariation": 92.6,
         "meanConfidenceInterval95": [
-          43837.24,
-          83734.19
+          42870.07,
+          81991.04
         ],
-        "meanMedianGapPct": 55.57
+        "meanMedianGapPct": 54.15
       },
-      "referencePrice": 47500.0,
-      "elecmartVsJoonggonaraPct": 21.95
+      "referencePrice": 45000.0,
+      "elecmartVsJoonggonaraPct": 23.46
     },
     {
       "name": "쿠쿠 밥솥 / 전기압력밥솥_10인용",
@@ -13474,19 +13486,19 @@
         "meanMedianGapPct": 21.67
       },
       "joonggonara": {
-        "count": 93,
-        "mean": 91286.02,
-        "trimmedMean": 81861.33,
+        "count": 95,
+        "mean": 90364.21,
+        "trimmedMean": 81293.51,
         "median": 70000.0,
-        "q1": 49900.0,
-        "q3": 120000.0,
-        "standardDeviation": 65078.23,
-        "coefficientOfVariation": 71.29,
+        "q1": 47450.0,
+        "q3": 110000.0,
+        "standardDeviation": 64987.92,
+        "coefficientOfVariation": 71.92,
         "meanConfidenceInterval95": [
-          77883.32,
-          104688.72
+          77125.49,
+          103602.93
         ],
-        "meanMedianGapPct": 30.41
+        "meanMedianGapPct": 29.09
       },
       "referencePrice": 70000.0,
       "elecmartVsJoonggonaraPct": -7.14
@@ -13542,22 +13554,22 @@
         "meanMedianGapPct": 3.75
       },
       "joonggonara": {
-        "count": 17,
-        "mean": 99470.59,
-        "trimmedMean": 98733.33,
-        "median": 100000.0,
-        "q1": 50000.0,
+        "count": 18,
+        "mean": 103944.44,
+        "trimmedMean": 103812.5,
+        "median": 102500.0,
+        "q1": 57250.0,
         "q3": 124000.0,
-        "standardDeviation": 51909.92,
-        "coefficientOfVariation": 52.19,
+        "standardDeviation": 53818.29,
+        "coefficientOfVariation": 51.78,
         "meanConfidenceInterval95": [
-          72780.97,
-          126160.21
+          77181.24,
+          130707.65
         ],
-        "meanMedianGapPct": -0.53
+        "meanMedianGapPct": 1.41
       },
       "referencePrice": 100000.0,
-      "elecmartVsJoonggonaraPct": -20.0
+      "elecmartVsJoonggonaraPct": -21.95
     },
     {
       "name": "쿠쿠 밥솥 / 전기압력밥솥_6인용",
@@ -13579,22 +13591,22 @@
         "meanMedianGapPct": 8.46
       },
       "joonggonara": {
-        "count": 114,
-        "mean": 67602.82,
-        "trimmedMean": 61118.48,
-        "median": 54000.0,
+        "count": 117,
+        "mean": 66724.11,
+        "trimmedMean": 60241.05,
+        "median": 53000.0,
         "q1": 35000.0,
-        "q3": 89750.0,
-        "standardDeviation": 47703.81,
-        "coefficientOfVariation": 70.56,
+        "q3": 89000.0,
+        "standardDeviation": 47449.28,
+        "coefficientOfVariation": 71.11,
         "meanConfidenceInterval95": [
-          58751.16,
-          76454.48
+          58035.72,
+          75412.5
         ],
-        "meanMedianGapPct": 25.19
+        "meanMedianGapPct": 25.89
       },
-      "referencePrice": 63000.0,
-      "elecmartVsJoonggonaraPct": 39.81
+      "referencePrice": 60000.0,
+      "elecmartVsJoonggonaraPct": 42.45
     },
     {
       "name": "쿠쿠 밥솥 / 제품군 공통",
@@ -13616,22 +13628,22 @@
         "meanMedianGapPct": 82.89
       },
       "joonggonara": {
-        "count": 74,
-        "mean": 79751.03,
-        "trimmedMean": 65409.6,
-        "median": 57938.0,
-        "q1": 28250.0,
-        "q3": 88750.0,
-        "standardDeviation": 77655.3,
-        "coefficientOfVariation": 97.37,
+        "count": 77,
+        "mean": 78955.53,
+        "trimmedMean": 65120.25,
+        "median": 59876.0,
+        "q1": 29000.0,
+        "q3": 85000.0,
+        "standardDeviation": 76310.46,
+        "coefficientOfVariation": 96.65,
         "meanConfidenceInterval95": [
-          61759.75,
-          97742.3
+          61635.18,
+          96275.88
         ],
-        "meanMedianGapPct": 37.65
+        "meanMedianGapPct": 31.87
       },
-      "referencePrice": 54000.0,
-      "elecmartVsJoonggonaraPct": -27.51
+      "referencePrice": 55000.0,
+      "elecmartVsJoonggonaraPct": -29.86
     },
     {
       "name": "쿠쿠 밥솥 / 트윈프레셔",
@@ -13690,22 +13702,22 @@
         "meanMedianGapPct": 10.16
       },
       "joonggonara": {
-        "count": 12,
-        "mean": 178500.0,
-        "trimmedMean": 174000.0,
-        "median": 155000.0,
-        "q1": 146250.0,
+        "count": 13,
+        "mean": 168000.0,
+        "trimmedMean": 162000.0,
+        "median": 150000.0,
+        "q1": 135000.0,
         "q3": 200000.0,
-        "standardDeviation": 87810.23,
-        "coefficientOfVariation": 49.19,
+        "standardDeviation": 92202.68,
+        "coefficientOfVariation": 54.88,
         "meanConfidenceInterval95": [
-          122708.04,
-          234291.96
+          112282.48,
+          223717.52
         ],
-        "meanMedianGapPct": 15.16
+        "meanMedianGapPct": 12.0
       },
-      "referencePrice": 155000.0,
-      "elecmartVsJoonggonaraPct": 3.23
+      "referencePrice": 150000.0,
+      "elecmartVsJoonggonaraPct": 6.67
     },
     {
       "name": "쿠쿠 밥솥 / 트윈프레셔_3인용",
@@ -17545,12 +17557,12 @@
       "product": "다이슨 청소기 / BIG_BALL",
       "item": "다이슨 청소기",
       "model": "BIG_BALL",
-      "count": 1,
+      "count": 2,
       "mean": 35000.0,
       "median": 35000.0,
       "selling": 0,
       "reserved": 0,
-      "sold": 1
+      "sold": 2
     },
     {
       "label": "2025 Q4",
@@ -17597,12 +17609,12 @@
       "product": "다이슨 청소기 / DIGITAL_SLIM",
       "item": "다이슨 청소기",
       "model": "DIGITAL_SLIM",
-      "count": 4,
-      "mean": 227500.0,
-      "median": 265000.0,
+      "count": 5,
+      "mean": 248000.0,
+      "median": 300000.0,
       "selling": 0,
       "reserved": 0,
-      "sold": 4
+      "sold": 5
     },
     {
       "label": "2025 Q4",
@@ -17675,12 +17687,12 @@
       "product": "다이슨 청소기 / SV11",
       "item": "다이슨 청소기",
       "model": "SV11",
-      "count": 2,
-      "mean": 51500.0,
-      "median": 51500.0,
+      "count": 3,
+      "mean": 43666.67,
+      "median": 28000.0,
       "selling": 0,
       "reserved": 0,
-      "sold": 2
+      "sold": 3
     },
     {
       "label": "2025 Q4",
@@ -17701,12 +17713,12 @@
       "product": "다이슨 청소기 / SV14",
       "item": "다이슨 청소기",
       "model": "SV14",
-      "count": 2,
+      "count": 4,
       "mean": 37500.0,
       "median": 37500.0,
       "selling": 0,
       "reserved": 0,
-      "sold": 2
+      "sold": 4
     },
     {
       "label": "2025 Q4",
@@ -17727,12 +17739,12 @@
       "product": "다이슨 청소기 / SV19",
       "item": "다이슨 청소기",
       "model": "SV19",
-      "count": 7,
+      "count": 14,
       "mean": 20714.29,
       "median": 20000.0,
-      "selling": 5,
+      "selling": 10,
       "reserved": 0,
-      "sold": 2
+      "sold": 4
     },
     {
       "label": "2025 Q4",
@@ -17753,12 +17765,12 @@
       "product": "다이슨 청소기 / V10",
       "item": "다이슨 청소기",
       "model": "V10",
-      "count": 35,
-      "mean": 62114.29,
-      "median": 35000.0,
-      "selling": 1,
-      "reserved": 2,
-      "sold": 32
+      "count": 40,
+      "mean": 66175.0,
+      "median": 34000.0,
+      "selling": 2,
+      "reserved": 3,
+      "sold": 35
     },
     {
       "label": "2025 Q4",
@@ -17857,12 +17869,12 @@
       "product": "다이슨 청소기 / V6",
       "item": "다이슨 청소기",
       "model": "V6",
-      "count": 35,
-      "mean": 43142.86,
+      "count": 40,
+      "mean": 41175.0,
       "median": 25000.0,
-      "selling": 14,
+      "selling": 16,
       "reserved": 0,
-      "sold": 21
+      "sold": 24
     },
     {
       "label": "2025 Q4",
@@ -17870,12 +17882,12 @@
       "product": "다이슨 청소기 / V7",
       "item": "다이슨 청소기",
       "model": "V7",
-      "count": 28,
-      "mean": 66464.29,
+      "count": 31,
+      "mean": 66645.16,
       "median": 30000.0,
-      "selling": 6,
+      "selling": 7,
       "reserved": 0,
-      "sold": 22
+      "sold": 24
     },
     {
       "label": "2025 Q4",
@@ -17883,12 +17895,12 @@
       "product": "다이슨 청소기 / V8",
       "item": "다이슨 청소기",
       "model": "V8",
-      "count": 50,
-      "mean": 92780.0,
-      "median": 57500.0,
+      "count": 60,
+      "mean": 91683.33,
+      "median": 60000.0,
       "selling": 6,
-      "reserved": 2,
-      "sold": 42
+      "reserved": 4,
+      "sold": 50
     },
     {
       "label": "2025 Q4",
@@ -17909,12 +17921,12 @@
       "product": "다이슨 청소기 / 제품군 공통",
       "item": "다이슨 청소기",
       "model": "제품군 공통",
-      "count": 21,
-      "mean": 159833.33,
-      "median": 60000.0,
-      "selling": 6,
+      "count": 26,
+      "mean": 142326.92,
+      "median": 37500.0,
+      "selling": 7,
       "reserved": 0,
-      "sold": 15
+      "sold": 19
     },
     {
       "label": "2025 Q4",
@@ -17922,12 +17934,12 @@
       "product": "메디큐브 부스터 프로 / BOOSTER_PRO",
       "item": "메디큐브 부스터 프로",
       "model": "BOOSTER_PRO",
-      "count": 131,
-      "mean": 189030.53,
+      "count": 138,
+      "mean": 189115.94,
       "median": 180000.0,
-      "selling": 13,
+      "selling": 15,
       "reserved": 1,
-      "sold": 117
+      "sold": 122
     },
     {
       "label": "2025 Q4",
@@ -17935,12 +17947,12 @@
       "product": "메디큐브 부스터 프로 / BOOSTER_PRO_MINI",
       "item": "메디큐브 부스터 프로",
       "model": "BOOSTER_PRO_MINI",
-      "count": 34,
-      "mean": 78088.24,
+      "count": 36,
+      "mean": 77527.78,
       "median": 80000.0,
       "selling": 6,
       "reserved": 0,
-      "sold": 28
+      "sold": 30
     },
     {
       "label": "2025 Q4",
@@ -20600,12 +20612,12 @@
       "product": "다이슨 청소기 / SV18",
       "item": "다이슨 청소기",
       "model": "SV18",
-      "count": 3,
-      "mean": 50000.0,
+      "count": 4,
+      "mean": 51250.0,
       "median": 55000.0,
       "selling": 1,
       "reserved": 0,
-      "sold": 2
+      "sold": 3
     },
     {
       "label": "2026 Q1",
@@ -20613,12 +20625,12 @@
       "product": "다이슨 청소기 / V10",
       "item": "다이슨 청소기",
       "model": "V10",
-      "count": 30,
-      "mean": 70796.67,
-      "median": 43450.0,
+      "count": 31,
+      "mean": 74480.65,
+      "median": 44900.0,
       "selling": 1,
       "reserved": 1,
-      "sold": 28
+      "sold": 29
     },
     {
       "label": "2026 Q1",
@@ -20730,12 +20742,12 @@
       "product": "다이슨 청소기 / V8",
       "item": "다이슨 청소기",
       "model": "V8",
-      "count": 37,
-      "mean": 125729.73,
-      "median": 80000.0,
+      "count": 39,
+      "mean": 121846.15,
+      "median": 75000.0,
       "selling": 5,
       "reserved": 5,
-      "sold": 27
+      "sold": 29
     },
     {
       "label": "2026 Q1",
@@ -24201,12 +24213,12 @@
       "product": "다이슨 청소기 / SPOT_AND_SCRUB",
       "item": "다이슨 청소기",
       "model": "SPOT_AND_SCRUB",
-      "count": 8,
-      "mean": 1004375.0,
-      "median": 920000.0,
+      "count": 9,
+      "mean": 991666.67,
+      "median": 890000.0,
       "selling": 2,
       "reserved": 0,
-      "sold": 6
+      "sold": 7
     },
     {
       "label": "2026 Q2",
@@ -24214,12 +24226,12 @@
       "product": "다이슨 청소기 / SV09",
       "item": "다이슨 청소기",
       "model": "SV09",
-      "count": 1,
+      "count": 2,
       "mean": 20000.0,
       "median": 20000.0,
       "selling": 0,
       "reserved": 0,
-      "sold": 1
+      "sold": 2
     },
     {
       "label": "2026 Q2",
@@ -24279,12 +24291,12 @@
       "product": "다이슨 청소기 / V10",
       "item": "다이슨 청소기",
       "model": "V10",
-      "count": 34,
-      "mean": 74000.0,
-      "median": 64000.0,
-      "selling": 9,
+      "count": 44,
+      "mean": 76590.91,
+      "median": 65000.0,
+      "selling": 14,
       "reserved": 2,
-      "sold": 23
+      "sold": 28
     },
     {
       "label": "2026 Q2",
@@ -24292,12 +24304,12 @@
       "product": "다이슨 청소기 / V11",
       "item": "다이슨 청소기",
       "model": "V11",
-      "count": 14,
-      "mean": 97785.71,
+      "count": 16,
+      "mean": 111437.5,
       "median": 20000.0,
       "selling": 1,
       "reserved": 1,
-      "sold": 12
+      "sold": 14
     },
     {
       "label": "2026 Q2",
@@ -24331,10 +24343,10 @@
       "product": "다이슨 청소기 / V15S",
       "item": "다이슨 청소기",
       "model": "V15S",
-      "count": 1,
+      "count": 2,
       "mean": 900000.0,
       "median": 900000.0,
-      "selling": 1,
+      "selling": 2,
       "reserved": 0,
       "sold": 0
     },
@@ -24357,12 +24369,12 @@
       "product": "다이슨 청소기 / V6",
       "item": "다이슨 청소기",
       "model": "V6",
-      "count": 16,
-      "mean": 26068.75,
+      "count": 22,
+      "mean": 28050.0,
       "median": 20000.0,
-      "selling": 6,
-      "reserved": 2,
-      "sold": 8
+      "selling": 7,
+      "reserved": 3,
+      "sold": 12
     },
     {
       "label": "2026 Q2",
@@ -24370,12 +24382,12 @@
       "product": "다이슨 청소기 / V7",
       "item": "다이슨 청소기",
       "model": "V7",
-      "count": 19,
-      "mean": 39889.47,
+      "count": 24,
+      "mean": 38870.83,
       "median": 35000.0,
-      "selling": 5,
+      "selling": 8,
       "reserved": 0,
-      "sold": 14
+      "sold": 16
     },
     {
       "label": "2026 Q2",
@@ -24409,12 +24421,12 @@
       "product": "다이슨 청소기 / V8",
       "item": "다이슨 청소기",
       "model": "V8",
-      "count": 26,
-      "mean": 105423.08,
-      "median": 71500.0,
+      "count": 29,
+      "mean": 102448.28,
+      "median": 78000.0,
       "selling": 10,
       "reserved": 1,
-      "sold": 15
+      "sold": 18
     },
     {
       "label": "2026 Q2",
@@ -24435,12 +24447,12 @@
       "product": "다이슨 청소기 / 제품군 공통",
       "item": "다이슨 청소기",
       "model": "제품군 공통",
-      "count": 31,
-      "mean": 77498.58,
+      "count": 38,
+      "mean": 94863.18,
       "median": 30000.0,
       "selling": 10,
       "reserved": 0,
-      "sold": 21
+      "sold": 28
     },
     {
       "label": "2026 Q2",
@@ -28894,10 +28906,10 @@
       "product": "쿠쿠 밥솥 / CR-0655FR",
       "item": "쿠쿠 밥솥",
       "model": "CR-0655FR",
-      "count": 1,
+      "count": 2,
       "mean": 70000.0,
       "median": 70000.0,
-      "selling": 1,
+      "selling": 2,
       "reserved": 0,
       "sold": 0
     },
@@ -28920,10 +28932,10 @@
       "product": "쿠쿠 밥솥 / CR-0685GWM",
       "item": "쿠쿠 밥솥",
       "model": "CR-0685GWM",
-      "count": 1,
+      "count": 2,
       "mean": 55000.0,
       "median": 55000.0,
-      "selling": 1,
+      "selling": 2,
       "reserved": 0,
       "sold": 0
     },
@@ -28959,10 +28971,10 @@
       "product": "쿠쿠 밥솥 / CR-3021V",
       "item": "쿠쿠 밥솥",
       "model": "CR-3021V",
-      "count": 1,
+      "count": 2,
       "mean": 79000.0,
       "median": 79000.0,
-      "selling": 1,
+      "selling": 2,
       "reserved": 0,
       "sold": 0
     },
@@ -29024,10 +29036,10 @@
       "product": "쿠쿠 밥솥 / CRP-1010FD",
       "item": "쿠쿠 밥솥",
       "model": "CRP-1010FD",
-      "count": 1,
+      "count": 2,
       "mean": 190000.0,
       "median": 190000.0,
-      "selling": 1,
+      "selling": 2,
       "reserved": 0,
       "sold": 0
     },
@@ -29037,12 +29049,12 @@
       "product": "쿠쿠 밥솥 / CRP-1020FR",
       "item": "쿠쿠 밥솥",
       "model": "CRP-1020FR",
-      "count": 1,
+      "count": 2,
       "mean": 26800.0,
       "median": 26800.0,
       "selling": 0,
       "reserved": 0,
-      "sold": 1
+      "sold": 2
     },
     {
       "label": "2026 Q3",
@@ -29063,12 +29075,12 @@
       "product": "쿠쿠 밥솥 / CRP-BHS0610FB",
       "item": "쿠쿠 밥솥",
       "model": "CRP-BHS0610FB",
-      "count": 1,
+      "count": 2,
       "mean": 40000.0,
       "median": 40000.0,
       "selling": 0,
       "reserved": 0,
-      "sold": 1
+      "sold": 2
     },
     {
       "label": "2026 Q3",
@@ -29089,10 +29101,10 @@
       "product": "쿠쿠 밥솥 / CRP-CHP1060FSM",
       "item": "쿠쿠 밥솥",
       "model": "CRP-CHP1060FSM",
-      "count": 1,
+      "count": 2,
       "mean": 200000.0,
       "median": 200000.0,
-      "selling": 1,
+      "selling": 2,
       "reserved": 0,
       "sold": 0
     },
@@ -29232,10 +29244,10 @@
       "product": "쿠쿠 밥솥 / CRP-HWB109FD",
       "item": "쿠쿠 밥솥",
       "model": "CRP-HWB109FD",
-      "count": 1,
+      "count": 2,
       "mean": 7000.0,
       "median": 7000.0,
-      "selling": 1,
+      "selling": 2,
       "reserved": 0,
       "sold": 0
     },
@@ -29245,10 +29257,10 @@
       "product": "쿠쿠 밥솥 / CRP-HWF1060FB",
       "item": "쿠쿠 밥솥",
       "model": "CRP-HWF1060FB",
-      "count": 1,
+      "count": 2,
       "mean": 130000.0,
       "median": 130000.0,
-      "selling": 1,
+      "selling": 2,
       "reserved": 0,
       "sold": 0
     },
@@ -29427,10 +29439,10 @@
       "product": "쿠쿠 밥솥 / CRP-QK1010BUG",
       "item": "쿠쿠 밥솥",
       "model": "CRP-QK1010BUG",
-      "count": 2,
+      "count": 4,
       "mean": 95000.0,
       "median": 95000.0,
-      "selling": 2,
+      "selling": 4,
       "reserved": 0,
       "sold": 0
     },
@@ -29609,10 +29621,10 @@
       "product": "쿠쿠 밥솥 / IH압력밥솥",
       "item": "쿠쿠 밥솥",
       "model": "IH압력밥솥",
-      "count": 6,
-      "mean": 58500.0,
+      "count": 7,
+      "mean": 61571.43,
       "median": 57000.0,
-      "selling": 6,
+      "selling": 7,
       "reserved": 0,
       "sold": 0
     },
@@ -29622,12 +29634,12 @@
       "product": "쿠쿠 밥솥 / IH압력밥솥_10인용",
       "item": "쿠쿠 밥솥",
       "model": "IH압력밥솥_10인용",
-      "count": 12,
-      "mean": 58416.67,
-      "median": 43500.0,
+      "count": 13,
+      "mean": 57538.46,
+      "median": 47000.0,
       "selling": 3,
       "reserved": 1,
-      "sold": 8
+      "sold": 9
     },
     {
       "label": "2026 Q3",
@@ -29648,10 +29660,10 @@
       "product": "쿠쿠 밥솥 / IH압력밥솥_6인용",
       "item": "쿠쿠 밥솥",
       "model": "IH압력밥솥_6인용",
-      "count": 11,
-      "mean": 77909.09,
-      "median": 55000.0,
-      "selling": 2,
+      "count": 12,
+      "mean": 80500.0,
+      "median": 62500.0,
+      "selling": 3,
       "reserved": 2,
       "sold": 7
     },
@@ -29726,12 +29738,12 @@
       "product": "쿠쿠 밥솥 / STAINLESS",
       "item": "쿠쿠 밥솥",
       "model": "STAINLESS",
-      "count": 1,
+      "count": 2,
       "mean": 120000.0,
       "median": 120000.0,
       "selling": 0,
       "reserved": 0,
-      "sold": 1
+      "sold": 2
     },
     {
       "label": "2026 Q3",
@@ -29791,10 +29803,10 @@
       "product": "쿠쿠 밥솥 / 전기보온밥솥",
       "item": "쿠쿠 밥솥",
       "model": "전기보온밥솥",
-      "count": 4,
-      "mean": 20250.0,
-      "median": 15000.0,
-      "selling": 3,
+      "count": 5,
+      "mean": 18200.0,
+      "median": 10000.0,
+      "selling": 4,
       "reserved": 0,
       "sold": 1
     },
@@ -29804,12 +29816,12 @@
       "product": "쿠쿠 밥솥 / 전기보온밥솥_10인용",
       "item": "쿠쿠 밥솥",
       "model": "전기보온밥솥_10인용",
-      "count": 2,
-      "mean": 19000.0,
-      "median": 19000.0,
+      "count": 3,
+      "mean": 16000.0,
+      "median": 10000.0,
       "selling": 0,
       "reserved": 0,
-      "sold": 2
+      "sold": 3
     },
     {
       "label": "2026 Q3",
@@ -29817,10 +29829,10 @@
       "product": "쿠쿠 밥솥 / 전기보온밥솥_35인용",
       "item": "쿠쿠 밥솥",
       "model": "전기보온밥솥_35인용",
-      "count": 1,
+      "count": 2,
       "mean": 100000.0,
       "median": 100000.0,
-      "selling": 1,
+      "selling": 2,
       "reserved": 0,
       "sold": 0
     },
@@ -29830,12 +29842,12 @@
       "product": "쿠쿠 밥솥 / 전기보온밥솥_6인용",
       "item": "쿠쿠 밥솥",
       "model": "전기보온밥솥_6인용",
-      "count": 9,
-      "mean": 49333.33,
+      "count": 11,
+      "mean": 49000.0,
       "median": 40000.0,
       "selling": 5,
       "reserved": 1,
-      "sold": 3
+      "sold": 5
     },
     {
       "label": "2026 Q3",
@@ -29843,10 +29855,10 @@
       "product": "쿠쿠 밥솥 / 전기압력밥솥",
       "item": "쿠쿠 밥솥",
       "model": "전기압력밥솥",
-      "count": 6,
-      "mean": 24166.67,
+      "count": 7,
+      "mean": 22857.14,
       "median": 15000.0,
-      "selling": 4,
+      "selling": 5,
       "reserved": 0,
       "sold": 2
     },
@@ -29856,12 +29868,12 @@
       "product": "쿠쿠 밥솥 / 전기압력밥솥_10인용",
       "item": "쿠쿠 밥솥",
       "model": "전기압력밥솥_10인용",
-      "count": 24,
-      "mean": 72941.67,
+      "count": 26,
+      "mean": 70984.62,
       "median": 60500.0,
       "selling": 12,
       "reserved": 1,
-      "sold": 11
+      "sold": 13
     },
     {
       "label": "2026 Q3",
@@ -29869,10 +29881,10 @@
       "product": "쿠쿠 밥솥 / 전기압력밥솥_3인용",
       "item": "쿠쿠 밥솥",
       "model": "전기압력밥솥_3인용",
-      "count": 2,
-      "mean": 129500.0,
-      "median": 129500.0,
-      "selling": 2,
+      "count": 3,
+      "mean": 146333.33,
+      "median": 180000.0,
+      "selling": 3,
       "reserved": 0,
       "sold": 0
     },
@@ -29882,12 +29894,12 @@
       "product": "쿠쿠 밥솥 / 전기압력밥솥_6인용",
       "item": "쿠쿠 밥솥",
       "model": "전기압력밥솥_6인용",
-      "count": 24,
-      "mean": 79805.04,
-      "median": 64000.0,
+      "count": 27,
+      "mean": 74641.52,
+      "median": 55000.0,
       "selling": 17,
       "reserved": 0,
-      "sold": 7
+      "sold": 10
     },
     {
       "label": "2026 Q3",
@@ -29895,12 +29907,12 @@
       "product": "쿠쿠 밥솥 / 제품군 공통",
       "item": "쿠쿠 밥솥",
       "model": "제품군 공통",
-      "count": 18,
-      "mean": 97661.11,
-      "median": 58000.0,
+      "count": 21,
+      "mean": 92185.71,
+      "median": 60000.0,
       "selling": 11,
       "reserved": 0,
-      "sold": 7
+      "sold": 10
     },
     {
       "label": "2026 Q3",
@@ -29921,12 +29933,12 @@
       "product": "쿠쿠 밥솥 / 트윈프레셔_10인용",
       "item": "쿠쿠 밥솥",
       "model": "트윈프레셔_10인용",
-      "count": 3,
-      "mean": 92333.33,
-      "median": 85000.0,
+      "count": 4,
+      "mean": 79750.0,
+      "median": 63500.0,
       "selling": 2,
       "reserved": 0,
-      "sold": 1
+      "sold": 2
     },
     {
       "label": "2026 Q3",
@@ -30167,21 +30179,21 @@
     {
       "item": "다이슨 청소기",
       "elecmartCount": 576,
-      "joonggonaraCount": 1035,
-      "meanDifference": -7896.77,
+      "joonggonaraCount": 1115,
+      "meanDifference": -5179.54,
       "confidenceInterval95": [
-        -25942.67,
-        10149.12
+        -22884.82,
+        12525.74
       ],
-      "tStatistic": -0.8585,
-      "pValue": 0.3908,
-      "cohensD": -0.0429,
+      "tStatistic": -0.5739,
+      "pValue": 0.5661,
+      "cohensD": -0.0283,
       "elecmartMean": 128216.49,
-      "joonggonaraMean": 136113.26,
+      "joonggonaraMean": 133396.03,
       "elecmartTrimmedMean": 92741.21,
-      "joonggonaraTrimmedMean": 93867.01,
+      "joonggonaraTrimmedMean": 91311.03,
       "elecmartStandardDeviation": 167797.56,
-      "joonggonaraStandardDeviation": 192322.66,
+      "joonggonaraStandardDeviation": 190565.34,
       "elecmartMedian": 50000.0,
       "joonggonaraMedian": 50000.0,
       "medianDifference": 0.0,
@@ -30190,21 +30202,21 @@
     {
       "item": "메디큐브 부스터 프로",
       "elecmartCount": 674,
-      "joonggonaraCount": 565,
-      "meanDifference": -7952.9,
+      "joonggonaraCount": 574,
+      "meanDifference": -7864.52,
       "confidenceInterval95": [
-        -18365.59,
-        2459.78
+        -18250.54,
+        2521.5
       ],
-      "tStatistic": -1.4984,
-      "pValue": 0.1343,
-      "cohensD": -0.0842,
+      "tStatistic": -1.4856,
+      "pValue": 0.1376,
+      "cohensD": -0.0833,
       "elecmartMean": 161128.49,
-      "joonggonaraMean": 169081.39,
+      "joonggonaraMean": 168993.01,
       "elecmartTrimmedMean": 149948.91,
-      "joonggonaraTrimmedMean": 163384.05,
+      "joonggonaraTrimmedMean": 163473.86,
       "elecmartStandardDeviation": 101099.79,
-      "joonggonaraStandardDeviation": 85717.99,
+      "joonggonaraStandardDeviation": 85919.33,
       "elecmartMedian": 150000.0,
       "joonggonaraMedian": 170000.0,
       "medianDifference": -20000.0,
@@ -30259,21 +30271,21 @@
     {
       "item": "쿠쿠 밥솥",
       "elecmartCount": 681,
-      "joonggonaraCount": 1073,
-      "meanDifference": 1633.83,
+      "joonggonaraCount": 1104,
+      "meanDifference": 2365.97,
       "confidenceInterval95": [
-        -12640.92,
-        15908.59
+        -11869.73,
+        16601.68
       ],
-      "tStatistic": 0.2246,
-      "pValue": 0.8223,
-      "cohensD": 0.0127,
+      "tStatistic": 0.3262,
+      "pValue": 0.7444,
+      "cohensD": 0.0185,
       "elecmartMean": 97668.86,
-      "joonggonaraMean": 96035.03,
+      "joonggonaraMean": 95302.89,
       "elecmartTrimmedMean": 77359.68,
-      "joonggonaraTrimmedMean": 80863.17,
+      "joonggonaraTrimmedMean": 80343.06,
       "elecmartStandardDeviation": 177155.61,
-      "joonggonaraStandardDeviation": 85507.27,
+      "joonggonaraStandardDeviation": 84865.45,
       "elecmartMedian": 70000.0,
       "joonggonaraMedian": 70000.0,
       "medianDifference": 0.0,
@@ -30306,7 +30318,7 @@
   "expensive": {
     "product": "다이슨 청소기 / SPOT_AND_SCRUB",
     "platform": "joonggonara",
-    "mean": 935588.24
+    "mean": 933055.56
   },
   "correlations": {
     "favorites": {
@@ -30319,26 +30331,898 @@
     }
   },
   "coverage": {
-    "datedRowCount": 5736,
+    "datedRowCount": 5856,
     "datedRowRate": 100.0,
     "from": "2023-03-09",
     "to": "2026-08-27"
   },
+  "distribution": [
+    {
+      "rangeLabel": "0만~42만",
+      "min": 1004,
+      "max": 420904,
+      "total": 5697,
+      "elecmart": 2299,
+      "joonggonara": 3398,
+      "selling": 2417,
+      "completed": 3280,
+      "sellThroughRate": 57.6,
+      "pct": 97.3,
+      "cumulativePct": 97.3
+    },
+    {
+      "rangeLabel": "42만~84만",
+      "min": 420904,
+      "max": 840803,
+      "total": 130,
+      "elecmart": 57,
+      "joonggonara": 73,
+      "selling": 84,
+      "completed": 46,
+      "sellThroughRate": 35.4,
+      "pct": 2.2,
+      "cumulativePct": 99.5
+    },
+    {
+      "rangeLabel": "84만~126만",
+      "min": 840803,
+      "max": 1260703,
+      "total": 26,
+      "elecmart": 6,
+      "joonggonara": 20,
+      "selling": 12,
+      "completed": 14,
+      "sellThroughRate": 53.8,
+      "pct": 0.4,
+      "cumulativePct": 99.9
+    },
+    {
+      "rangeLabel": "126만~168만",
+      "min": 1260703,
+      "max": 1680602,
+      "total": 2,
+      "elecmart": 0,
+      "joonggonara": 2,
+      "selling": 1,
+      "completed": 1,
+      "sellThroughRate": 50.0,
+      "pct": 0.0,
+      "cumulativePct": 100.0
+    },
+    {
+      "rangeLabel": "168만~210만",
+      "min": 1680602,
+      "max": 2100502,
+      "total": 0,
+      "elecmart": 0,
+      "joonggonara": 0,
+      "selling": 0,
+      "completed": 0,
+      "sellThroughRate": 0.0,
+      "pct": 0.0,
+      "cumulativePct": 100.0
+    },
+    {
+      "rangeLabel": "210만~252만",
+      "min": 2100502,
+      "max": 2520402,
+      "total": 0,
+      "elecmart": 0,
+      "joonggonara": 0,
+      "selling": 0,
+      "completed": 0,
+      "sellThroughRate": 0.0,
+      "pct": 0.0,
+      "cumulativePct": 100.0
+    },
+    {
+      "rangeLabel": "252만~294만",
+      "min": 2520402,
+      "max": 2940301,
+      "total": 0,
+      "elecmart": 0,
+      "joonggonara": 0,
+      "selling": 0,
+      "completed": 0,
+      "sellThroughRate": 0.0,
+      "pct": 0.0,
+      "cumulativePct": 100.0
+    },
+    {
+      "rangeLabel": "294만~336만",
+      "min": 2940301,
+      "max": 3360201,
+      "total": 0,
+      "elecmart": 0,
+      "joonggonara": 0,
+      "selling": 0,
+      "completed": 0,
+      "sellThroughRate": 0.0,
+      "pct": 0.0,
+      "cumulativePct": 100.0
+    },
+    {
+      "rangeLabel": "336만~378만",
+      "min": 3360201,
+      "max": 3780100,
+      "total": 0,
+      "elecmart": 0,
+      "joonggonara": 0,
+      "selling": 0,
+      "completed": 0,
+      "sellThroughRate": 0.0,
+      "pct": 0.0,
+      "cumulativePct": 100.0
+    },
+    {
+      "rangeLabel": "378만~420만",
+      "min": 3780100,
+      "max": 4200001,
+      "total": 5856,
+      "elecmart": 2363,
+      "joonggonara": 3493,
+      "selling": 2515,
+      "completed": 3341,
+      "sellThroughRate": 57.1,
+      "pct": 100.0,
+      "cumulativePct": 200.0
+    }
+  ],
+  "itemDistributions": {
+    "다이슨 청소기": [
+      {
+        "rangeLabel": "0만~16만",
+        "min": 1111,
+        "max": 163472,
+        "total": 1251,
+        "elecmart": 423,
+        "joonggonara": 828,
+        "selling": 537,
+        "completed": 714,
+        "sellThroughRate": 57.1,
+        "pct": 74.0,
+        "cumulativePct": 74.0
+      },
+      {
+        "rangeLabel": "16만~33만",
+        "min": 163472,
+        "max": 325833,
+        "total": 245,
+        "elecmart": 87,
+        "joonggonara": 158,
+        "selling": 121,
+        "completed": 124,
+        "sellThroughRate": 50.6,
+        "pct": 14.5,
+        "cumulativePct": 88.5
+      },
+      {
+        "rangeLabel": "33만~49만",
+        "min": 325833,
+        "max": 488194,
+        "total": 112,
+        "elecmart": 40,
+        "joonggonara": 72,
+        "selling": 61,
+        "completed": 51,
+        "sellThroughRate": 45.5,
+        "pct": 6.6,
+        "cumulativePct": 95.1
+      },
+      {
+        "rangeLabel": "49만~65만",
+        "min": 488194,
+        "max": 650556,
+        "total": 33,
+        "elecmart": 15,
+        "joonggonara": 18,
+        "selling": 17,
+        "completed": 16,
+        "sellThroughRate": 48.5,
+        "pct": 2.0,
+        "cumulativePct": 97.0
+      },
+      {
+        "rangeLabel": "65만~81만",
+        "min": 650556,
+        "max": 812917,
+        "total": 23,
+        "elecmart": 5,
+        "joonggonara": 18,
+        "selling": 18,
+        "completed": 5,
+        "sellThroughRate": 21.7,
+        "pct": 1.4,
+        "cumulativePct": 98.4
+      },
+      {
+        "rangeLabel": "81만~98만",
+        "min": 812917,
+        "max": 975278,
+        "total": 16,
+        "elecmart": 3,
+        "joonggonara": 13,
+        "selling": 6,
+        "completed": 10,
+        "sellThroughRate": 62.5,
+        "pct": 0.9,
+        "cumulativePct": 99.3
+      },
+      {
+        "rangeLabel": "98만~114만",
+        "min": 975278,
+        "max": 1137639,
+        "total": 6,
+        "elecmart": 3,
+        "joonggonara": 3,
+        "selling": 5,
+        "completed": 1,
+        "sellThroughRate": 16.7,
+        "pct": 0.4,
+        "cumulativePct": 99.7
+      },
+      {
+        "rangeLabel": "114만~130만",
+        "min": 1137639,
+        "max": 1300001,
+        "total": 1691,
+        "elecmart": 576,
+        "joonggonara": 1115,
+        "selling": 766,
+        "completed": 925,
+        "sellThroughRate": 54.7,
+        "pct": 100.0,
+        "cumulativePct": 199.7
+      }
+    ],
+    "메디큐브 부스터 프로": [
+      {
+        "rangeLabel": "0만~12만",
+        "min": 2000,
+        "max": 120500,
+        "total": 438,
+        "elecmart": 278,
+        "joonggonara": 160,
+        "selling": 173,
+        "completed": 265,
+        "sellThroughRate": 60.5,
+        "pct": 35.1,
+        "cumulativePct": 35.1
+      },
+      {
+        "rangeLabel": "12만~24만",
+        "min": 120500,
+        "max": 239000,
+        "total": 607,
+        "elecmart": 281,
+        "joonggonara": 326,
+        "selling": 262,
+        "completed": 345,
+        "sellThroughRate": 56.8,
+        "pct": 48.6,
+        "cumulativePct": 83.7
+      },
+      {
+        "rangeLabel": "24만~36만",
+        "min": 239000,
+        "max": 357500,
+        "total": 175,
+        "elecmart": 94,
+        "joonggonara": 81,
+        "selling": 79,
+        "completed": 96,
+        "sellThroughRate": 54.9,
+        "pct": 14.0,
+        "cumulativePct": 97.8
+      },
+      {
+        "rangeLabel": "36만~48만",
+        "min": 357500,
+        "max": 476000,
+        "total": 13,
+        "elecmart": 11,
+        "joonggonara": 2,
+        "selling": 10,
+        "completed": 3,
+        "sellThroughRate": 23.1,
+        "pct": 1.0,
+        "cumulativePct": 98.8
+      },
+      {
+        "rangeLabel": "48만~59만",
+        "min": 476000,
+        "max": 594500,
+        "total": 6,
+        "elecmart": 5,
+        "joonggonara": 1,
+        "selling": 5,
+        "completed": 1,
+        "sellThroughRate": 16.7,
+        "pct": 0.5,
+        "cumulativePct": 99.3
+      },
+      {
+        "rangeLabel": "59만~71만",
+        "min": 594500,
+        "max": 713000,
+        "total": 3,
+        "elecmart": 2,
+        "joonggonara": 1,
+        "selling": 3,
+        "completed": 0,
+        "sellThroughRate": 0.0,
+        "pct": 0.2,
+        "cumulativePct": 99.5
+      },
+      {
+        "rangeLabel": "71만~83만",
+        "min": 713000,
+        "max": 831500,
+        "total": 4,
+        "elecmart": 2,
+        "joonggonara": 2,
+        "selling": 4,
+        "completed": 0,
+        "sellThroughRate": 0.0,
+        "pct": 0.3,
+        "cumulativePct": 99.8
+      },
+      {
+        "rangeLabel": "83만~95만",
+        "min": 831500,
+        "max": 950001,
+        "total": 1248,
+        "elecmart": 674,
+        "joonggonara": 574,
+        "selling": 538,
+        "completed": 710,
+        "sellThroughRate": 56.9,
+        "pct": 100.0,
+        "cumulativePct": 199.8
+      }
+    ],
+    "미닉스 음식물처리기": [
+      {
+        "rangeLabel": "9만~18만",
+        "min": 89000,
+        "max": 176875,
+        "total": 14,
+        "elecmart": 4,
+        "joonggonara": 10,
+        "selling": 0,
+        "completed": 14,
+        "sellThroughRate": 100.0,
+        "pct": 5.1,
+        "cumulativePct": 5.1
+      },
+      {
+        "rangeLabel": "18만~26만",
+        "min": 176875,
+        "max": 264750,
+        "total": 59,
+        "elecmart": 24,
+        "joonggonara": 35,
+        "selling": 14,
+        "completed": 45,
+        "sellThroughRate": 76.3,
+        "pct": 21.3,
+        "cumulativePct": 26.4
+      },
+      {
+        "rangeLabel": "26만~35만",
+        "min": 264750,
+        "max": 352625,
+        "total": 151,
+        "elecmart": 58,
+        "joonggonara": 93,
+        "selling": 58,
+        "completed": 93,
+        "sellThroughRate": 61.6,
+        "pct": 54.5,
+        "cumulativePct": 80.9
+      },
+      {
+        "rangeLabel": "35만~44만",
+        "min": 352625,
+        "max": 440500,
+        "total": 49,
+        "elecmart": 14,
+        "joonggonara": 35,
+        "selling": 25,
+        "completed": 24,
+        "sellThroughRate": 49.0,
+        "pct": 17.7,
+        "cumulativePct": 98.6
+      },
+      {
+        "rangeLabel": "44만~53만",
+        "min": 440500,
+        "max": 528375,
+        "total": 2,
+        "elecmart": 1,
+        "joonggonara": 1,
+        "selling": 1,
+        "completed": 1,
+        "sellThroughRate": 50.0,
+        "pct": 0.7,
+        "cumulativePct": 99.3
+      },
+      {
+        "rangeLabel": "53만~62만",
+        "min": 528375,
+        "max": 616250,
+        "total": 1,
+        "elecmart": 1,
+        "joonggonara": 0,
+        "selling": 0,
+        "completed": 1,
+        "sellThroughRate": 100.0,
+        "pct": 0.4,
+        "cumulativePct": 99.6
+      },
+      {
+        "rangeLabel": "62만~70만",
+        "min": 616250,
+        "max": 704125,
+        "total": 0,
+        "elecmart": 0,
+        "joonggonara": 0,
+        "selling": 0,
+        "completed": 0,
+        "sellThroughRate": 0.0,
+        "pct": 0.0,
+        "cumulativePct": 99.6
+      },
+      {
+        "rangeLabel": "70만~79만",
+        "min": 704125,
+        "max": 792001,
+        "total": 277,
+        "elecmart": 102,
+        "joonggonara": 175,
+        "selling": 98,
+        "completed": 179,
+        "sellThroughRate": 64.6,
+        "pct": 100.0,
+        "cumulativePct": 199.6
+      }
+    ],
+    "브레짜 분유": [
+      {
+        "rangeLabel": "2만~8만",
+        "min": 15000,
+        "max": 75625,
+        "total": 31,
+        "elecmart": 4,
+        "joonggonara": 27,
+        "selling": 9,
+        "completed": 22,
+        "sellThroughRate": 71.0,
+        "pct": 23.3,
+        "cumulativePct": 23.3
+      },
+      {
+        "rangeLabel": "8만~14만",
+        "min": 75625,
+        "max": 136250,
+        "total": 25,
+        "elecmart": 6,
+        "joonggonara": 19,
+        "selling": 12,
+        "completed": 13,
+        "sellThroughRate": 52.0,
+        "pct": 18.8,
+        "cumulativePct": 42.1
+      },
+      {
+        "rangeLabel": "14만~20만",
+        "min": 136250,
+        "max": 196875,
+        "total": 28,
+        "elecmart": 5,
+        "joonggonara": 23,
+        "selling": 11,
+        "completed": 17,
+        "sellThroughRate": 60.7,
+        "pct": 21.1,
+        "cumulativePct": 63.2
+      },
+      {
+        "rangeLabel": "20만~26만",
+        "min": 196875,
+        "max": 257500,
+        "total": 42,
+        "elecmart": 9,
+        "joonggonara": 33,
+        "selling": 20,
+        "completed": 22,
+        "sellThroughRate": 52.4,
+        "pct": 31.6,
+        "cumulativePct": 94.7
+      },
+      {
+        "rangeLabel": "26만~32만",
+        "min": 257500,
+        "max": 318125,
+        "total": 6,
+        "elecmart": 4,
+        "joonggonara": 2,
+        "selling": 5,
+        "completed": 1,
+        "sellThroughRate": 16.7,
+        "pct": 4.5,
+        "cumulativePct": 99.2
+      },
+      {
+        "rangeLabel": "32만~38만",
+        "min": 318125,
+        "max": 378750,
+        "total": 0,
+        "elecmart": 0,
+        "joonggonara": 0,
+        "selling": 0,
+        "completed": 0,
+        "sellThroughRate": 0.0,
+        "pct": 0.0,
+        "cumulativePct": 99.2
+      },
+      {
+        "rangeLabel": "38만~44만",
+        "min": 378750,
+        "max": 439375,
+        "total": 0,
+        "elecmart": 0,
+        "joonggonara": 0,
+        "selling": 0,
+        "completed": 0,
+        "sellThroughRate": 0.0,
+        "pct": 0.0,
+        "cumulativePct": 99.2
+      },
+      {
+        "rangeLabel": "44만~50만",
+        "min": 439375,
+        "max": 500001,
+        "total": 133,
+        "elecmart": 28,
+        "joonggonara": 105,
+        "selling": 57,
+        "completed": 76,
+        "sellThroughRate": 57.1,
+        "pct": 100.0,
+        "cumulativePct": 199.2
+      }
+    ],
+    "쿠쿠 밥솥": [
+      {
+        "rangeLabel": "0만~53만",
+        "min": 1900,
+        "max": 526662,
+        "total": 1783,
+        "elecmart": 679,
+        "joonggonara": 1104,
+        "selling": 798,
+        "completed": 985,
+        "sellThroughRate": 55.2,
+        "pct": 99.9,
+        "cumulativePct": 99.9
+      },
+      {
+        "rangeLabel": "53만~105만",
+        "min": 526662,
+        "max": 1051425,
+        "total": 1,
+        "elecmart": 1,
+        "joonggonara": 0,
+        "selling": 1,
+        "completed": 0,
+        "sellThroughRate": 0.0,
+        "pct": 0.1,
+        "cumulativePct": 99.9
+      },
+      {
+        "rangeLabel": "105만~158만",
+        "min": 1051425,
+        "max": 1576188,
+        "total": 0,
+        "elecmart": 0,
+        "joonggonara": 0,
+        "selling": 0,
+        "completed": 0,
+        "sellThroughRate": 0.0,
+        "pct": 0.0,
+        "cumulativePct": 99.9
+      },
+      {
+        "rangeLabel": "158만~210만",
+        "min": 1576188,
+        "max": 2100950,
+        "total": 0,
+        "elecmart": 0,
+        "joonggonara": 0,
+        "selling": 0,
+        "completed": 0,
+        "sellThroughRate": 0.0,
+        "pct": 0.0,
+        "cumulativePct": 99.9
+      },
+      {
+        "rangeLabel": "210만~263만",
+        "min": 2100950,
+        "max": 2625712,
+        "total": 0,
+        "elecmart": 0,
+        "joonggonara": 0,
+        "selling": 0,
+        "completed": 0,
+        "sellThroughRate": 0.0,
+        "pct": 0.0,
+        "cumulativePct": 99.9
+      },
+      {
+        "rangeLabel": "263만~315만",
+        "min": 2625712,
+        "max": 3150475,
+        "total": 0,
+        "elecmart": 0,
+        "joonggonara": 0,
+        "selling": 0,
+        "completed": 0,
+        "sellThroughRate": 0.0,
+        "pct": 0.0,
+        "cumulativePct": 99.9
+      },
+      {
+        "rangeLabel": "315만~368만",
+        "min": 3150475,
+        "max": 3675238,
+        "total": 0,
+        "elecmart": 0,
+        "joonggonara": 0,
+        "selling": 0,
+        "completed": 0,
+        "sellThroughRate": 0.0,
+        "pct": 0.0,
+        "cumulativePct": 99.9
+      },
+      {
+        "rangeLabel": "368만~420만",
+        "min": 3675238,
+        "max": 4200001,
+        "total": 1785,
+        "elecmart": 681,
+        "joonggonara": 1104,
+        "selling": 800,
+        "completed": 985,
+        "sellThroughRate": 55.2,
+        "pct": 100.0,
+        "cumulativePct": 199.9
+      }
+    ],
+    "풀리오 마사지기": [
+      {
+        "rangeLabel": "0만~5만",
+        "min": 1004,
+        "max": 45254,
+        "total": 87,
+        "elecmart": 39,
+        "joonggonara": 48,
+        "selling": 28,
+        "completed": 59,
+        "sellThroughRate": 67.8,
+        "pct": 12.0,
+        "cumulativePct": 12.0
+      },
+      {
+        "rangeLabel": "5만~9만",
+        "min": 45254,
+        "max": 89503,
+        "total": 377,
+        "elecmart": 165,
+        "joonggonara": 212,
+        "selling": 139,
+        "completed": 238,
+        "sellThroughRate": 63.1,
+        "pct": 52.2,
+        "cumulativePct": 64.3
+      },
+      {
+        "rangeLabel": "9만~13만",
+        "min": 89503,
+        "max": 133752,
+        "total": 143,
+        "elecmart": 54,
+        "joonggonara": 89,
+        "selling": 39,
+        "completed": 104,
+        "sellThroughRate": 72.7,
+        "pct": 19.8,
+        "cumulativePct": 84.1
+      },
+      {
+        "rangeLabel": "13만~18만",
+        "min": 133752,
+        "max": 178002,
+        "total": 61,
+        "elecmart": 22,
+        "joonggonara": 39,
+        "selling": 23,
+        "completed": 38,
+        "sellThroughRate": 62.3,
+        "pct": 8.4,
+        "cumulativePct": 92.5
+      },
+      {
+        "rangeLabel": "18만~22만",
+        "min": 178002,
+        "max": 222252,
+        "total": 31,
+        "elecmart": 9,
+        "joonggonara": 22,
+        "selling": 10,
+        "completed": 21,
+        "sellThroughRate": 67.7,
+        "pct": 4.3,
+        "cumulativePct": 96.8
+      },
+      {
+        "rangeLabel": "22만~27만",
+        "min": 222252,
+        "max": 266501,
+        "total": 6,
+        "elecmart": 3,
+        "joonggonara": 3,
+        "selling": 4,
+        "completed": 2,
+        "sellThroughRate": 33.3,
+        "pct": 0.8,
+        "cumulativePct": 97.6
+      },
+      {
+        "rangeLabel": "27만~31만",
+        "min": 266501,
+        "max": 310750,
+        "total": 12,
+        "elecmart": 6,
+        "joonggonara": 6,
+        "selling": 8,
+        "completed": 4,
+        "sellThroughRate": 33.3,
+        "pct": 1.7,
+        "cumulativePct": 99.3
+      },
+      {
+        "rangeLabel": "31만~36만",
+        "min": 310750,
+        "max": 355001,
+        "total": 722,
+        "elecmart": 302,
+        "joonggonara": 420,
+        "selling": 256,
+        "completed": 466,
+        "sellThroughRate": 64.5,
+        "pct": 100.0,
+        "cumulativePct": 199.3
+      }
+    ]
+  },
+  "boxPlot": {
+    "min": 1004.0,
+    "q1": 45000.0,
+    "median": 90000.0,
+    "q3": 180000.0,
+    "max": 4200000.0,
+    "iqr": 135000.0,
+    "lowerFence": 1004.0,
+    "upperFence": 382500.0,
+    "outliersCount": 238
+  },
+  "itemBoxPlots": {
+    "다이슨 청소기": {
+      "min": 1111.0,
+      "q1": 22000.0,
+      "median": 50000.0,
+      "q3": 170000.0,
+      "max": 1300000.0,
+      "iqr": 148000.0,
+      "lowerFence": 1111.0,
+      "upperFence": 392000.0,
+      "outliersCount": 147
+    },
+    "메디큐브 부스터 프로": {
+      "min": 2000.0,
+      "q1": 100000.0,
+      "median": 160000.0,
+      "q3": 205000.0,
+      "max": 950000.0,
+      "iqr": 105000.0,
+      "lowerFence": 2000.0,
+      "upperFence": 362500.0,
+      "outliersCount": 26
+    },
+    "미닉스 음식물처리기": {
+      "min": 89000.0,
+      "q1": 260000.0,
+      "median": 310000.0,
+      "q3": 340000.0,
+      "max": 792000.0,
+      "iqr": 80000.0,
+      "lowerFence": 140000.0,
+      "upperFence": 460000.0,
+      "outliersCount": 9
+    },
+    "브레짜 분유": {
+      "min": 15000.0,
+      "q1": 80000.0,
+      "median": 150000.0,
+      "q3": 210000.0,
+      "max": 500000.0,
+      "iqr": 130000.0,
+      "lowerFence": 15000.0,
+      "upperFence": 405000.0,
+      "outliersCount": 1
+    },
+    "쿠쿠 밥솥": {
+      "min": 1900.0,
+      "q1": 40000.0,
+      "median": 70000.0,
+      "q3": 120000.0,
+      "max": 4200000.0,
+      "iqr": 80000.0,
+      "lowerFence": 1900.0,
+      "upperFence": 240000.0,
+      "outliersCount": 123
+    },
+    "풀리오 마사지기": {
+      "min": 1004.0,
+      "q1": 59000.0,
+      "median": 72000.0,
+      "q3": 100000.0,
+      "max": 355000.0,
+      "iqr": 41000.0,
+      "lowerFence": 1004.0,
+      "upperFence": 161500.0,
+      "outliersCount": 66
+    }
+  },
+  "analyticsFunnel": {
+    "totalListings": 5856,
+    "activeListings": 2515,
+    "reservedListings": 367,
+    "soldListings": 2974,
+    "overallSellThroughRate": 57.1,
+    "zones": {
+      "discountZone": {
+        "total": 2509,
+        "completed": 1492,
+        "sellThroughRate": 59.5
+      },
+      "marketFairZone": {
+        "total": 841,
+        "completed": 504,
+        "sellThroughRate": 59.9
+      },
+      "premiumZone": {
+        "total": 2506,
+        "completed": 1345,
+        "sellThroughRate": 53.7
+      }
+    }
+  },
   "preprocessing": {
     "rawRowCount": 6234,
-    "excludedRowCount": 498,
+    "excludedRowCount": 378,
     "excludedByReason": {
-      "검색어 오탐/타제품": 95,
+      "검색어 오탐/타제품": 96,
       "검색어 오탐/타브랜드": 49,
-      "가격 무효/자리표시": 36,
+      "가격 무효/자리표시": 39,
       "액세서리/소모품 단품": 8,
       "빈 포장": 4,
-      "부품/고장품": 113,
-      "불완전상품": 19,
-      "거래 목적 불일치": 21,
+      "부품/고장품": 117,
+      "불완전상품": 20,
+      "거래 목적 불일치": 22,
       "장난감/모형": 6,
-      "가격 이상치-복수상품": 16,
-      "중복 product_id": 131
+      "가격 이상치-복수상품": 17
     },
     "modelFallback": "제품군 공통",
     "unknownAfter": 0,
