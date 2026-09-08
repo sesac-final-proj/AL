@@ -1,0 +1,39 @@
+{
+  "raw_rows": 6234,
+  "accepted_rows": 5856,
+  "rejected_rows": 378,
+  "unknown_before": 3,
+  "unknown_after": 0,
+  "detail_success": 920,
+  "detail_failed": 43,
+  "price_anomalies": 125,
+  "platforms": {
+    "elecmart": {
+      "raw": 2542,
+      "accepted": 2363,
+      "rejected": 179,
+      "unknown_before": 3,
+      "unknown_after": 0
+    },
+    "joonggonara": {
+      "raw": 3692,
+      "accepted": 3493,
+      "rejected": 199,
+      "unknown_before": 0,
+      "unknown_after": 0
+    }
+  },
+  "rejected_by_reason": {
+    "검색어 오탐/타제품": 96,
+    "검색어 오탐/타브랜드": 49,
+    "가격 무효/자리표시": 39,
+    "액세서리/소모품 단품": 8,
+    "빈 포장": 4,
+    "부품/고장품": 117,
+    "불완전상품": 20,
+    "거래 목적 불일치": 22,
+    "장난감/모형": 6,
+    "가격 이상치-복수상품": 17
+  },
+  "generated_at": "2026-09-08 11:56:18"
+}
